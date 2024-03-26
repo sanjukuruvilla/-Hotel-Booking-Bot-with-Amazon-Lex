@@ -105,7 +105,7 @@ Once your bot is built and configured, it's essential to thoroughly test it to e
 3. Verify that the bot responds correctly to different scenarios and inputs.
 4. Identify any errors or unexpected behavior and make necessary adjustments to the bot's configuration.
 5. Continue testing until the bot performs satisfactorily in various test cases.
-6. For detailed PDF version kindly check this [folder](-Hotel-Booking-Bot-with-Amazon-Lex/PDF)
+6. For detailed PDF version kindly check this [folder](/PDF/HotelBookingBot.pdf)
 
 For more detailed instructions and troubleshooting tips, refer to the [AWS Lex Documentation](https://docs.aws.amazon.com/lex/).
 
