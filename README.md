@@ -27,69 +27,93 @@ Before you begin, ensure you have:
 
 1. Navigate to [AWS Management Console](https://aws.amazon.com/console/).
 2. Login to your Amazon Web Services portal.
+
    ![Alt Text](Instructions/1.png)
+
    ![Alt Text](Instructions/2.png)
 
-3. Click the "Search" field and type "lex".
+4. Click the "Search" field and type "lex".
+
    ![Alt Text](Instructions/3.png)
    
-4. Click "Amazon Lex".
+5. Click "Amazon Lex".
+   
    ![Alt Text](Instructions/4.png)
 
-5. Click "Create bot".
+6. Click "Create bot".
+
    ![Alt Text](Instructions/5.png)
 
-6. Choose "Create a blank bot" or "Create a basic bot".
-    ![Alt Text](Instructions/6.png)
+8. Choose "Create a blank bot" or "Create a basic bot".
 
-7. Enter the name for your bot in the "Bot name" field. Example: "Hotelbooking".
+   ![Alt Text](Instructions/6.png)
+
+10. Enter the name for your bot in the "Bot name" field. Example: "Hotelbooking".
+
     ![Alt Text](Instructions/7.png)
 
-8. Optionally, enter a description for your bot.
+12. Optionally, enter a description for your bot.
+
     ![Alt Text](Instructions/8.png)
 
-9. Click "No" for the "Childrens Online Privacy  Protection Act (COPPA)"
+14. Click "No" for the "Childrens Online Privacy  Protection Act (COPPA)"
+
     ![Alt Text](Instructions/9.png)
 
-10. select "Create a role with basic Amazon Lex permissions." option.
+16. select "Create a role with basic Amazon Lex permissions." option.
+
     ![Alt Text](Instructions/10.png)
     
-11.  Click "Next" and then "Done".    
+18. Click "Next" and then "Done".    
 
-12. Click the "Intent name" field and enter an intent name.
+19. Click the "Intent name" field and enter an intent name.
+
     ![Alt Text](Instructions/11.png)
     
-13. Click on Initial response and add message
+21. Click on Initial response and add message
+
     ![Alt Text](Instructions/17.png)
 
-14. Add utterances by clicking "Add utterance" and typing phrases such as "Hi", "I want to book a hotel", "Can you help me to book a room?".
+23. Add utterances by clicking "Add utterance" and typing phrases such as "Hi", "I want to book a hotel", "Can you help me to book a room?".
+
     ![Alt Text](Instructions/12.png)
 
-15. For each utterance, add corresponding messages in the "Message - optional" field.
+25. For each utterance, add corresponding messages in the "Message - optional" field.
+
     ![Alt Text](Instructions/14.png)
 
-16. Add slots for capturing user inputs, such as first name, last name, check-in date, etc.
+27. Add slots for capturing user inputs, such as first name, last name, check-in date, etc.
+
     ![Alt Text](Instructions/22.png)
 
-17. Define prompts for each slot to ask the user for input.
+29. Define prompts for each slot to ask the user for input.
 
-18. Configure "In case of failure" and "On successful fulfillment" responses.
-    ![Alt Text](Instructions/25.png)
+30. Configure "In case of failure" and "On successful fulfillment" responses.
+
     ![Alt Text](Instructions/25.png)
 
-19. Add a confirmation prompt and closing response.
+    ![Alt Text](Instructions/25.png)
+
+32. Add a confirmation prompt and closing response.
+
     ![Alt Text](Instructions/27.png)
 
-20. Click "Save intent".
+34. Click "Save intent".
+
     ![Alt Text](Instructions/31.png)
 
-21. Click "Build" and then "Test" to test your bot.
+36. Click "Build" and then "Test" to test your bot.
+
     ![Alt Text](Instructions/32.png)
 
-22. Once the bot is ready for complete testing, proceed with testing.
+38. Once the bot is ready for complete testing, proceed with testing.
+
     ![Alt Text](Instructions/33.png)
+
     ![Alt Text](Instructions/34.png)
+
     ![Alt Text](Instructions/35.png)
+
     ![Alt Text](Instructions/36.png)
 
 ## Additional Notes
